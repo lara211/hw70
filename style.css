@@ -1,0 +1,30 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+img{
+    width: 500px;
+
+}
+.travel_mainDiv{
+    border: 1px;
+}
+#v{
+    color: azure;
+}
+.filmes_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmes_head i {
+    float: right;
+}
+.conquistasText span{
+    color:darkgoldenrod;
+}
+img{
+    width: 50%;
+}
